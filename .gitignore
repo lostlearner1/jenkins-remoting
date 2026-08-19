@@ -1,0 +1,16 @@
+# Jenkins Remoting Secrets & Runtime
+secrets/id_ed25519
+secrets/id_ed25519.pub
+!secrets/.gitkeep
+
+# Environment & Session Files
+.env
+.env.local
+cookies.txt
+*.log
+log*.txt
+all_logs.txt
+
+# OS Files
+.DS_Store
+Thumbs.db

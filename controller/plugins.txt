@@ -1,0 +1,13 @@
+configuration-as-code
+ssh-slaves
+ssh-credentials
+credentials
+git
+workflow-aggregator
+pipeline-stage-view
+dark-theme
+theme-manager
+job-dsl
+matrix-project
+ws-cleanup
+timestamper
